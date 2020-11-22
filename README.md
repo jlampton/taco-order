@@ -2,14 +2,17 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.12.
 
-You may need to install Angular CLI to run this project.
+You may need to install Angular CLI globally on your computer to run this project.
+`npm install -g @angular/cli`
+
 ## Development server
+
+Navigate to the cloned repository and run `npm install`. 
+This should install any dependencies missing from your system.
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Click on Orders in the top right navigation bar to begin using the app.
 
 ## Further help
 
