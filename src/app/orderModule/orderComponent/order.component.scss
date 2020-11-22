@@ -1,0 +1,9 @@
+.order-header {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex: 1 1 auto;
+    .nav-item:not(:last-child) {
+      margin-right: 5px;
+    }
+}
